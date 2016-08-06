@@ -19,6 +19,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -40,6 +41,7 @@ bitmapfonts = {
 		}
 
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -62,6 +64,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -85,6 +88,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -107,6 +111,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -129,6 +134,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -151,6 +157,7 @@ bitmapfonts = {
 		}
 		
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
@@ -172,6 +179,7 @@ bitmapfonts = {
 		}
 
 		color_override = {
+			B = { 51 167 255 }
 			G = { 44 171 50 }
 			R = { 181 61 61 }
 			Y = { 251 170 41 }
