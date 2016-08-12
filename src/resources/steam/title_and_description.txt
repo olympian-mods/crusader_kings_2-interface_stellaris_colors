@@ -9,13 +9,14 @@ DESCRIPTION
 
 [h1]Mod Description[/h1]
 This mod changes the font color palette to the one used in Stellaris.
-It has been designed with my two other mods in mind (see below) but can also be installed stand-alone.
+Most notably yellow colors in the tooltips are replaced by an amber/orange color tone.
+This mod has been designed with my two other mods in mind (see below) but can also be installed stand-alone.
 
 [h1]Ironman[/h1]
 This mod is Ironman compatible.
 
 [h1]Additional Mods[/h1]
-I recommend to subscribe to the following mods in addition to this mod:
+This mod works best in conjunction with the following mods:
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=735130352]Interface: Century Gothic[/url]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=734350648]Tooltip: Century Gothic Bold 18[/url]
